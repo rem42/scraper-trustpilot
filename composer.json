@@ -1,6 +1,7 @@
 {
   "name": "rem42/scraper-trustpilot",
   "description": "API Trustpilot Scraper",
+  "license": "MIT",
   "authors": [
     {
       "name": "rem42",
