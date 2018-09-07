@@ -23,7 +23,9 @@ class TrustpilotPublicBusinessUnitsRequest extends TrustpilotRequest
 	}
 
 	/**
-	 * @param mixed $idBusinessUnit
+	 * @param $idBusinessUnit
+	 *
+	 * @return $this
 	 */
 	public function setIdBusinessUnit($idBusinessUnit)
 	{
